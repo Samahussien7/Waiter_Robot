@@ -1,6 +1,10 @@
 # Waiter_Robot
 Waiter robot software design working autonomously  using A* algorithm to deliver tables consuming the least energy and time possible.  
 [Phase1.pdf](https://github.com/Samahussien7/Waiter_Robot/files/12195017/Phase1.pdf)
+
+![demo](https://github.com/user-attachments/assets/db8ac20a-92c8-4e77-8b30-9733f6009ecc)
+
+
 ⮚ Stage#1 (Planning & Analysis):
 
 o Applied the following planning and analysis
@@ -48,7 +52,15 @@ execution of the algorithm.
 
 ● Adding GUI 
 
-![🎥 Watch the Demo](https://github.com/user-attachments/assets/e0f8cecb-c85e-445a-8c66-c910157861d6)
+[🎥 Watch the full Demo](https://github.com/user-attachments/assets/f8407311-baec-4bae-b0ae-ca1049bc50d5)
+
+
+
+
+
+
+
+
 
 
 
