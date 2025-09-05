@@ -47,3 +47,10 @@ both initial state and goal state.
 execution of the algorithm.
 
 ● Adding GUI 
+
+![🎥 Watch the Demo](https://github.com/user-attachments/assets/e0f8cecb-c85e-445a-8c66-c910157861d6)
+
+
+
+
+
