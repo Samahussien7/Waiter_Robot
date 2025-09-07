@@ -50,7 +50,7 @@ both initial state and goal state.
 ● Print the trajectory path of nodes (Solution / plan), after the
 execution of the algorithm.
 
-● Adding GUI 
+
 
 [🎥 Watch the full Demo](https://github.com/user-attachments/assets/f8407311-baec-4bae-b0ae-ca1049bc50d5)
 
